@@ -1,0 +1,18 @@
+{
+  "App": {
+    "WEB_HOST": "79club.win",
+    "MOBILE_HOST": "79club.win",
+    "HOT_UPDATE_URL": "https://populateactiveson.com/remote-assets/",
+    "HOT_UPDATE_URL_CHECK": "https://populateactiveson.com/"
+  },
+  "ConfigListGame": {
+    "LIST_ALL": ["TaiXiuLive", "TaiXiuCanCua", "TaiXiuMD5", "LacTienTy", "FortuneMouse", "MeoBeo", "Minipoker", "DiaBay", "Anubis", "KeoNgot", "DaoKimCuong", "DaoMo", "Poker", "SamSL", "TLMN4", "MauBinh", "Sicbo", "Xocdia", "Baucua", "GaiNhay", "Plinko", "Meo", "Cleopatra", "Hades", "Fishing"],
+    "LIST_SLOT": ["DiaBay", "Anubis", "KeoNgot", "DaoKimCuong", "DaoMo", "FortuneMouse", "MeoBeo", "LacTienTy", "Minipoker", "GaiNhay", "Plinko", "Meo", "Cleopatra", "Hades"],
+    "LIST_CASINO": ["TaiXiuLive", "TaiXiuCanCua", "TaiXiuMD5", "Sicbo", "Xocdia", "Baucua"],
+    "LIST_GAMEBAI": ["Poker", "SamSL", "TLMN4", "MauBinh"],
+    "LIST_SCENE": ["TaiXiuLive", "DiaBay", "Anubis", "KeoNgot", "DaoKimCuong", "DaoMo", "Sicbo", "Xocdia", "Baucua", "GaiNhay", "Poker", "SamSL", "TLMN4", "MauBinh", "Fishing"],
+    "SCENE_GAMES": ["TaiXiuLive", "DiaBay", "Anubis", "KeoNgot", "DaoKimCuong", "DaoMo", "Sicbo", "Baucua", "GaiNhay", "Xocdia", "Poker", "TLMN4", "SamSL", "MauBinh"],
+    "PREFAB_GAMES": ["TaiXiuCanCua", "TaiXiuMD5", "FortuneMouse", "MeoBeo", "LacTienTy", "Minipoker"],
+    "WEBVIEW_GAMES": ["Plinko", "Meo", "Cleopatra", "Hades", "Fishing"]
+  }
+}
