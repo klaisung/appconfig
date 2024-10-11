@@ -3,7 +3,15 @@
     "WEB_HOST": "79club.win",
     "MOBILE_HOST": "myxiaomeibestbtc.com",
     "HOT_UPDATE_URL": "https://populateactiveson.com/remote-assets/",
-    "HOT_UPDATE_URL_CHECK": "https://populateactiveson.com/"
+    "HOT_UPDATE_URL_CHECK": "https://populateactiveson.com/",
+    "API_DICE_LIVE":"https://fireforuapidhl.net",
+    "HOST_GAME_DAU" : {
+      "host": "",
+      "subdomain": "shs",
+      "port": 443,
+      "ConnectionToken": ""
+    }
+
   },
   "ConfigListGame": {
     "LIST_ALL": ["TaiXiuLive", "TaiXiuCanCua", "TaiXiuMD5", "LacTienTy", "FortuneMouse", "MeoBeo", "Minipoker", "DiaBay", "Anubis", "KeoNgot", "DaoKimCuong", "DaoMo", "Poker", "SamSL", "TLMN4", "MauBinh", "Sicbo", "Xocdia", "Baucua", "GaiNhay", "Plinko", "Meo", "Cleopatra", "Hades", "Fishing"],
