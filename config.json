@@ -19,7 +19,7 @@
     "LIST_SLOT": ["DiaBay", "Anubis", "KeoNgot", "DaoKimCuong", "DaoMo", "GaiNhay", "FortuneMouse", "MeoBeo", "LacTienTy", "Minipoker", "Fishing", "Plinko", "Meo", "Cleopatra", "Hades"],
     "LIST_CASINO": ["TaiXiuLive", "TaiXiuCanCua", "TaiXiuMD5", "Sicbo", "Xocdia", "Baucua"],
     "LIST_GAMEBAI": ["Poker", "SamSL", "TLMN4", "MauBinh"],
-    "LIST_SCENE": ["TaiXiuLive", "DiaBay", "Anubis", "KeoNgot", "DaoKimCuong", "DaoMo", "Sicbo", "Xocdia", "Baucua", "GaiNhay", "Poker", "SamSL", "TLMN4", "MauBinh"],
+    "LIST_SCENE": ["TaiXiuLive", "DiaBay", "Anubis", "KeoNgot", "DaoKimCuong", "DaoMo", "GaiNhay", "Sicbo", "Xocdia", "Baucua", "Poker", "SamSL", "TLMN4", "MauBinh"],
     "SCENE_GAMES": ["TaiXiuLive", "DiaBay", "Anubis", "KeoNgot", "DaoKimCuong", "DaoMo", "Sicbo", "Baucua", "GaiNhay", "Xocdia", "Poker", "TLMN4", "SamSL", "MauBinh"],
     "PREFAB_GAMES": ["TaiXiuCanCua", "TaiXiuMD5", "FortuneMouse", "MeoBeo", "LacTienTy", "Minipoker"],
     "WEBVIEW_GAMES": ["Plinko", "Meo", "Cleopatra", "Hades", "Fishing"]
