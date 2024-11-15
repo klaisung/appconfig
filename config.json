@@ -19,7 +19,7 @@
 
   },
   "ConfigListGame": {
-    "LIST_ALL": ["TaiXiuLive", "TaiXiuCanCua", "TaiXiuMD5", "LacTienTy", "FortuneMouse", "MeoBeo", "Minipoker", "Frozen", "Anubis", "Finn", "KeoNgot", "DiaBay", "DaoKimCuong", "DaoMo", "GaiNhay", "Poker", "SamSL", "TLMN4", "MauBinh", "Sicbo", "Xocdia", "Baucua", "Fishing", "Plinko", "Meo", "Cleopatra", "Hades"],
+    "LIST_ALL": ["TaiXiuCanCua", "TaiXiuMD5", "TaiXiuLive","Frozen", "LacTienTy", "FortuneMouse", "MeoBeo", "Minipoker", "Anubis", "Finn", "KeoNgot", "DiaBay", "DaoKimCuong", "DaoMo", "GaiNhay", "Poker", "SamSL", "TLMN4", "MauBinh", "Sicbo", "Xocdia", "Baucua", "Fishing", "Plinko", "Meo", "Cleopatra", "Hades"],
     "LIST_SLOT": ["Frozen", "Anubis", "Finn", "KeoNgot", "DiaBay", "DaoKimCuong", "DaoMo", "GaiNhay", "FortuneMouse", "MeoBeo", "LacTienTy", "Minipoker", "Fishing", "Plinko", "Meo", "Cleopatra", "Hades"],
     "LIST_CASINO": ["TaiXiuLive", "TaiXiuCanCua", "TaiXiuMD5", "Sicbo", "Xocdia", "Baucua"],
     "LIST_GAMEBAI": ["Poker", "SamSL", "TLMN4", "MauBinh"],
