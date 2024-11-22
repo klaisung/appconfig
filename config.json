@@ -33,7 +33,7 @@
     "SCENE_GAMES": ["TaiXiuLive", "DiaBay", "Frozen", "Anubis", "KeoNgot", "Finn", "DaoKimCuong", "DaoMo", "Sicbo", "Baucua", "GaiNhay", "Xocdia", "Poker", "TLMN4", "SamSL", "MauBinh"],
     "PREFAB_GAMES": ["TaiXiuCanCua", "TaiXiuMD5", "FortuneMouse", "MeoBeo", "LacTienTy", "Minipoker"],
     "WEBVIEW_GAMES": ["Plinko", "Meo", "Cleopatra", "Hades", "Fishing"],
-    "LIST_NEW_GAME": ["Frozen"],
+    "LIST_NEW_GAME": ["Frozen","jackpotFishing","aviator"],
     "LIST_HOT_GAME": ["Anubis", "Finn", "KeoNgot", "DiaBay", "DaoKimCuong", "DaoMo"]
   }
 }
