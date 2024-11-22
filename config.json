@@ -15,6 +15,12 @@
       "subdomain": "shs",
       "port": 443,
       "ConnectionToken": ""
+    },
+    "HOST_GAME_JILI" : {
+      "host": "",
+      "subdomain": "gsc",
+      "port": 443,
+      "ConnectionToken": ""
     }
 
   },
