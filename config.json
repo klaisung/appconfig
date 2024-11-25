@@ -25,7 +25,7 @@
 
   },
   "ConfigListGame": {
-    "LIST_ALL": ["TaiXiuCanCua", "TaiXiuMD5", "TaiXiuLive","Frozen", "LacTienTy", "FortuneMouse", "MeoBeo", "Minipoker", "Anubis", "Finn", "KeoNgot", "DiaBay", "DaoKimCuong", "DaoMo", "GaiNhay", "Poker", "SamSL", "TLMN4", "MauBinh", "Sicbo", "Xocdia", "Baucua", "Fishing","jackpotFishing","aviator","oceanKing"],
+    "LIST_ALL": ["oceanKing","jackpotFishing","aviator", "TaiXiuCanCua", "TaiXiuMD5", "Frozen", "LacTienTy", "FortuneMouse", "MeoBeo", "Minipoker", "Anubis", "Finn", "KeoNgot", "DiaBay", "DaoKimCuong", "DaoMo", "GaiNhay", "Poker", "SamSL", "TLMN4", "MauBinh", "TaiXiuLive","Sicbo", "Xocdia", "Baucua"],
     "LIST_SLOT": ["Frozen", "Anubis", "Finn", "KeoNgot", "DiaBay", "DaoKimCuong", "DaoMo", "GaiNhay", "FortuneMouse", "MeoBeo", "LacTienTy", "Minipoker", "Fishing", "Plinko", "Meo", "Cleopatra", "Hades"],
     "LIST_CASINO": ["TaiXiuLive", "TaiXiuCanCua", "TaiXiuMD5", "Sicbo", "Xocdia", "Baucua"],
     "LIST_GAMEBAI": ["Poker", "SamSL", "TLMN4", "MauBinh"],
@@ -33,8 +33,8 @@
     "SCENE_GAMES": ["TaiXiuLive", "DiaBay", "Frozen", "Anubis", "KeoNgot", "Finn", "DaoKimCuong", "DaoMo", "Sicbo", "Baucua", "GaiNhay", "Xocdia", "Poker", "TLMN4", "SamSL", "MauBinh"],
     "PREFAB_GAMES": ["TaiXiuCanCua", "TaiXiuMD5", "FortuneMouse", "MeoBeo", "LacTienTy", "Minipoker"],
     "WEBVIEW_GAMES": ["Plinko", "Meo", "Cleopatra", "Hades", "Fishing"],
-    "LIST_NEW_GAME": ["Frozen","jackpotFishing","aviator","oceanKing"],
-    "LIST_HOT_GAME": ["Anubis", "Finn", "KeoNgot", "DiaBay", "DaoKimCuong", "DaoMo"],
+    "LIST_NEW_GAME": ["Frozen"],
+    "LIST_HOT_GAME": ["Anubis", "Finn", "KeoNgot","jackpotFishing","aviator","oceanKing"],
     "JILI_GAMES" :["jackpotFishing","aviator","oceanKing"]
   }
 }
