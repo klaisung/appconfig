@@ -25,15 +25,15 @@
 
   },
   "ConfigListGame": {
-    "LIST_ALL": ["oceanKing","jackpotFishing","aviator", "TaiXiuCanCua", "TaiXiuMD5", "Frozen", "LacTienTy", "FortuneMouse", "MeoBeo", "Minipoker", "Anubis", "Finn", "KeoNgot", "DiaBay", "DaoKimCuong", "DaoMo", "GaiNhay", "Poker", "SamSL", "TLMN4", "MauBinh", "TaiXiuLive","Sicbo", "Xocdia", "Baucua"],
-    "LIST_SLOT": ["Frozen", "Anubis", "Finn", "KeoNgot", "DiaBay", "DaoKimCuong", "DaoMo", "GaiNhay", "FortuneMouse", "MeoBeo", "LacTienTy", "Minipoker", "Fishing", "Plinko", "Meo", "Cleopatra", "Hades"],
+    "LIST_ALL": ["TaiXiuCanCua", "TaiXiuMD5","jackpotFishing","Harry", "LacTienTy", "FortuneMouse", "MeoBeo", "Minipoker","Frozen", "Anubis", "Finn", "KeoNgot", "DiaBay", "DaoKimCuong", "DaoMo", "GaiNhay", "oceanKing","aviator","Poker", "SamSL", "TLMN4", "MauBinh", "TaiXiuLive","Sicbo", "Xocdia", "Baucua"],
+    "LIST_SLOT": ["Harry","Frozen", "Anubis", "Finn", "KeoNgot", "DiaBay", "DaoKimCuong", "DaoMo", "GaiNhay", "FortuneMouse", "MeoBeo", "LacTienTy", "Minipoker", "Fishing"],
     "LIST_CASINO": ["TaiXiuLive", "TaiXiuCanCua", "TaiXiuMD5", "Sicbo", "Xocdia", "Baucua"],
     "LIST_GAMEBAI": ["Poker", "SamSL", "TLMN4", "MauBinh"],
-    "LIST_SCENE": ["TaiXiuLive", "Frozen", "Anubis", "Finn", "KeoNgot", "DiaBay", "DaoKimCuong", "DaoMo", "GaiNhay", "Sicbo", "Xocdia", "Baucua", "Poker", "SamSL", "TLMN4", "MauBinh"],
-    "SCENE_GAMES": ["TaiXiuLive", "DiaBay", "Frozen", "Anubis", "KeoNgot", "Finn", "DaoKimCuong", "DaoMo", "Sicbo", "Baucua", "GaiNhay", "Xocdia", "Poker", "TLMN4", "SamSL", "MauBinh"],
+    "LIST_SCENE": ["TaiXiuLive", "DiaBay", "Frozen", "Anubis","Harry", "KeoNgot", "DaoKimCuong", "DaoMo", "GaiNhay", "Sicbo", "Xocdia", "Baucua", "Poker", "SamSL", "TLMN4", "MauBinh"],
+    "SCENE_GAMES": ["TaiXiuLive", "Frozen", "Harry","Anubis", "Finn", "KeoNgot", "DiaBay", "DaoKimCuong", "DaoMo", "Sicbo", "Baucua", "GaiNhay", "Xocdia", "Poker", "TLMN4", "SamSL", "MauBinh"],
     "PREFAB_GAMES": ["TaiXiuCanCua", "TaiXiuMD5", "FortuneMouse", "MeoBeo", "LacTienTy", "Minipoker"],
     "WEBVIEW_GAMES": ["Plinko", "Meo", "Cleopatra", "Hades", "Fishing"],
-    "LIST_NEW_GAME": ["Frozen"],
+    "LIST_NEW_GAME": ["Frozen","Harry"],
     "LIST_HOT_GAME": ["Anubis", "Finn", "KeoNgot","jackpotFishing","aviator","oceanKing"],
     "JILI_GAMES" :["jackpotFishing","aviator","oceanKing"]
   }
