@@ -31,7 +31,7 @@
       "Harry",
       "dinosaurTycoonII",
       "boomLegend",
-      "3LuckyPiggy",
+      "boxingKing",
       "santasXmasRush",
       "outsourcedSlashGame",
       "cashNoire",
@@ -76,7 +76,7 @@
       "nightfallHunting",
       "moneyComing",
       "goldenEmpire",
-      "boxingKing",
+      "3LuckyPiggy",
       "superAce",
       "royalNuts",
       "deadOrAlive2",
@@ -94,7 +94,13 @@
       "tombstoneRip",
       "punkRocker2",
       "mental",
-      "bloodShadow2"
+      "bloodShadow2",
+      "fachaiFishing",
+      "starHunter",
+      "fierceFishing",
+      "monkeyKingFishing",
+      "godsGrantFortune",
+      "baoChuanFishing"
     ],
     "LIST_SLOT": [
       "Harry",
@@ -351,7 +357,8 @@
       "JILI",
       "PRAGMATIC",
       "NOLIMIT",
-      "NETENT"
+      "NETENT",
+      "FCFACHAI"
     ]
   }
 }
