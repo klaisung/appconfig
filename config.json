@@ -25,6 +25,7 @@
   },
   "ConfigListGame": {
     "LIST_ALL": [
+      "LoDe",
       "TaiXiuCanCua",
       "TaiXiuMD5",
       "jackpotFishing",
@@ -167,6 +168,9 @@
       "TLMN4",
       "MauBinh"
     ],
+    "LIST_LOTO": [
+      "LoDe"
+    ],
     "LIST_SCENE": [
       "TaiXiuLive",
       "DiaBay",
@@ -202,7 +206,8 @@
       "Poker",
       "TLMN4",
       "SamSL",
-      "MauBinh"
+      "MauBinh",
+      "LoDe"
     ],
     "PREFAB_GAMES": [
       "TaiXiuCanCua",
@@ -275,7 +280,8 @@
       "outsourcedSlashGame",
       "cashNoire",
       "allStarFishing",
-      "gatesOfOlympusXmas1000"
+      "gatesOfOlympusXmas1000",
+      "LoDe"
     ],
     "LIST_HOT_GAME": [
       "Frozen",
@@ -287,8 +293,8 @@
     ],
     "JILI_GAMES": [
       "jackpotFishing",
-      "fortuneKingJackpot",
       "oceanKing",
+      "fortuneKingJackpot",
       "dinosaurTycoonII",
       "dinosaurTycoon",
       "boomLegend",
