@@ -25,15 +25,20 @@
   },
   "ConfigListGame": {
     "LIST_ALL": [
-      "LoDe",
+      "LoDeSieuToc",
+      "sabaSports",
+      "fbSports",
       "TaiXiuCanCua",
       "TaiXiuMD5",
       "jackpotFishing",
+      "Harry",
       "dinosaurTycoonII",
       "boomLegend",
       "boxingKing",
-      "superAce",
-      "goldenEmpire",
+      "santasXmasRush",
+      "outsourcedSlashGame",
+      "cashNoire",
+      "allStarFishing",
       "gatesOfOlympusXmas1000",
       "LacTienTy",
       "FortuneMouse",
@@ -42,7 +47,6 @@
       "Frozen",
       "Anubis",
       "Finn",
-      "Harry",
       "KeoNgot",
       "DiaBay",
       "DaoKimCuong",
@@ -55,13 +59,10 @@
       "TLMN4",
       "MauBinh",
       "TaiXiuLive",
+      "LoDe",
       "Sicbo",
       "Xocdia",
       "Baucua",
-      "santasXmasRush",
-      "outsourcedSlashGame",
-      "cashNoire",
-      "allStarFishing",
       "gatesOfOlympus",
       "zeusVsHadesGOW",
       "sugarRush",
@@ -78,7 +79,9 @@
       "fortuneKingJackpot",
       "nightfallHunting",
       "moneyComing",
+      "goldenEmpire",
       "3LuckyPiggy",
+      "superAce",
       "royalNuts",
       "deadOrAlive2",
       "bloodSuckersII",
@@ -209,7 +212,8 @@
       "TLMN4",
       "SamSL",
       "MauBinh",
-      "LoDe"
+      "LoDe",
+      "LoDeSieuToc"
     ],
     "PREFAB_GAMES": [
       "TaiXiuCanCua",
@@ -272,10 +276,14 @@
       "monkeyKingFishing",
       "godsGrantFortune",
       "baoChuanFishing",
-      "boomLegend"
+      "boomLegend",
+      "sabaSports",
+      "fbSports"
     ],
     "LIST_NEW_GAME": [
-      "LoDe"
+      "sabaSports",
+      "fbSports",
+      "LoDeSieuToc"
     ],
     "LIST_HOT_GAME": [
       "jackpotFishing",
@@ -360,6 +368,10 @@
       "NOLIMIT",
       "NETENT",
       "FCFACHAI"
+    ],
+    "LIST_SPORT": [
+      "sabaSports",
+      "fbSports"
     ]
   }
 }
