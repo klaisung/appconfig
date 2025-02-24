@@ -10,6 +10,7 @@
     "LINK_TELE_NEWS": "https://t.me/gamebaidaiphat79club",
     "LINK_FB_FANPAGE": "https://www.facebook.com/79clubgamebaiphattai/",
     "LINK_FB_GROUP": "https://www.facebook.com/groups/980317323293414",
+    "IS_EVENT_SIEU_VIP":false,
     "HOST_GAME_DAU": {
       "host": "",
       "subdomain": "shs",
