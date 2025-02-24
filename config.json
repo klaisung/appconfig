@@ -10,7 +10,6 @@
     "LINK_TELE_NEWS": "https://t.me/gamebaidaiphat79club",
     "LINK_FB_FANPAGE": "https://www.facebook.com/79clubgamebaiphattai/",
     "LINK_FB_GROUP": "https://www.facebook.com/groups/980317323293414",
-    "IS_EVENT_SIEU_VIP": false,
     "HOST_GAME_DAU": {
       "host": "",
       "subdomain": "shs",
@@ -26,12 +25,10 @@
   },
   "ConfigListGame": {
     "LIST_ALL": [
-      "LoDeSieuToc",
-      "sabaSports",
-      "fbSports",
       "TaiXiuCanCua",
       "TaiXiuMD5",
       "jackpotFishing",
+      "LoDeSieuToc",
       "dinosaurTycoonII",
       "boomLegend",
       "boxingKing",
@@ -53,6 +50,8 @@
       "GaiNhay",
       "oceanKing",
       "aviator",
+      "sabaSports",
+      "fbSports",
       "Poker",
       "SamSL",
       "TLMN4",
@@ -104,7 +103,17 @@
       "starHunter",
       "fierceFishing",
       "monkeyKingFishing",
-      "godsGrantFortune"
+      "godsGrantFortune",
+      "dice",
+      "hotline",
+      "keno80",
+      "plinko",
+      "balloon",
+      "hiLo",
+      "mines",
+      "miniRoulette",
+      "goal",
+      "keno"
     ],
     "LIST_SLOT": [
       "Frozen",
@@ -157,6 +166,19 @@
       "punkRocker2",
       "mental",
       "bloodShadow2"
+    ],
+    "LIST_CRYPTO": [
+      "aviator",
+      "dice",
+      "hotline",
+      "keno80",
+      "plinko",
+      "balloon",
+      "hiLo",
+      "mines",
+      "miniRoulette",
+      "goal",
+      "keno"
     ],
     "LIST_CASINO": [
       "TaiXiuCanCua",
@@ -280,14 +302,34 @@
       "baoChuanFishing",
       "boomLegend",
       "sabaSports",
-      "fbSports"
+      "fbSports",
+      "miniRoulette",
+      "mines",
+      "dice",
+      "hiLo",
+      "plinko",
+      "goal",
+      "keno80",
+      "keno",
+      "hotline",
+      "balloon",
+      "starline",
+      "trader"
     ],
     "LIST_NEW_GAME": [
-      "sabaSports",
-      "fbSports",
-      "LoDeSieuToc"
+      "dice",
+      "hotline",
+      "keno80",
+      "plinko",
+      "balloon",
+      "hiLo",
+      "mines",
+      "miniRoulette",
+      "goal",
+      "keno"
     ],
     "LIST_HOT_GAME": [
+      "aviator",
       "jackpotFishing",
       "Frozen",
       "Anubis",
@@ -317,7 +359,17 @@
       "moneyComing"
     ],
     "SPRIBE_GAMES": [
-      "aviator"
+      "aviator",
+      "dice",
+      "hotline",
+      "keno80",
+      "plinko",
+      "balloon",
+      "hiLo",
+      "mines",
+      "miniRoulette",
+      "goal",
+      "keno"
     ],
     "NETENT_GAMES": [
       "cashNoire",
