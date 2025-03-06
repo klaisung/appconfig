@@ -10,7 +10,7 @@
     "LINK_TELE_NEWS": "https://t.me/gamebaidaiphat79club",
     "LINK_FB_FANPAGE": "https://facebook.com/61573801235094/",
     "LINK_FB_GROUP": "https://www.facebook.com/groups/980317323293414",
-    "IS_EVENT_SIEU_VIP":"none",
+    "IS_EVENT_SIEU_VIP": "none",
     "HOST_GAME_DAU": {
       "host": "",
       "subdomain": "shs",
@@ -26,6 +26,10 @@
   },
   "ConfigListGame": {
     "LIST_ALL": [
+      "supereSabong",
+      "cricketRoulette",
+      "crashCricket",
+      "goRush",
       "TaiXiuCanCua",
       "TaiXiuMD5",
       "jackpotFishing",
@@ -114,7 +118,8 @@
       "mines",
       "miniRoulette",
       "goal",
-      "keno"
+      "keno",
+      "crashGoal"
     ],
     "LIST_SLOT": [
       "Frozen",
@@ -170,6 +175,9 @@
     ],
     "LIST_CRYPTO": [
       "aviator",
+      "crashCricket",
+      "goRush",
+      "crashGoal",
       "dice",
       "hotline",
       "keno80",
@@ -182,6 +190,8 @@
       "keno"
     ],
     "LIST_CASINO": [
+      "supereSabong",
+      "cricketRoulette",
       "TaiXiuCanCua",
       "TaiXiuMD5",
       "TaiXiuLive",
@@ -315,8 +325,14 @@
       "hotline",
       "balloon",
       "starline",
-      "trader"
+      "trader",
+      "supereSabong",
+      "cricketRoulette",
+      "crashCricket",
+      "goRush",
+      "crashGoal"
     ],
+    "WEBVIEW_GAME_DOC": [],
     "LIST_NEW_GAME": [
       "dice",
       "hotline",
@@ -339,7 +355,12 @@
       "boomLegend",
       "boxingKing",
       "superAce",
-      "LacTienTy"
+      "LacTienTy",
+      "supereSabong",
+      "cricketRoulette",
+      "crashCricket",
+      "goRush",
+      "crashGoal"
     ],
     "JILI_GAMES": [
       "jackpotFishing",
@@ -357,7 +378,12 @@
       "happyFishing",
       "3LuckyPiggy",
       "nightfallHunting",
-      "moneyComing"
+      "moneyComing",
+      "supereSabong",
+      "cricketRoulette",
+      "crashCricket",
+      "goRush",
+      "crashGoal"
     ],
     "SPRIBE_GAMES": [
       "aviator",
