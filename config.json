@@ -332,7 +332,7 @@
       "goRush",
       "crashGoal"
     ],
-    "WEBVIEW_GAME_DOC":["fbSports","balloon"],
+    "WEBVIEW_GAME_DOC":[],
     "LIST_NEW_GAME": [
       "dice",
       "hotline",
