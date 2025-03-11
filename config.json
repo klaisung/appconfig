@@ -332,6 +332,7 @@
       "goRush",
       "crashGoal"
     ],
+    "WEBVIEW_GAME_DOC":["balloon"],
     "LIST_NEW_GAME": [
       "dice",
       "hotline",
