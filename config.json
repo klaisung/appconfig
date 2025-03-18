@@ -332,7 +332,7 @@
       "goRush",
       "crashGoal"
     ],
-    "WEBVIEW_GAME_DOC":["balloon"],
+    "WEBVIEW_GAME_DOC":["aviator","dice","hotline","keno80","plinko","balloon","hiLo","mines","miniRoulette","goal","keno","sabaSports","fbSports"],
     "LIST_NEW_GAME": [
       "dice",
       "hotline",
