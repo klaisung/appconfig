@@ -26,10 +26,7 @@
   },
   "ConfigListGame": {
     "LIST_ALL": [
-      "supereSabong",
-      "cricketRoulette",
-      "crashCricket",
-      "goRush",
+      "sabaSports",
       "TaiXiuCanCua",
       "TaiXiuMD5",
       "jackpotFishing",
@@ -119,7 +116,11 @@
       "miniRoulette",
       "goal",
       "keno",
-      "crashGoal"
+      "crashGoal",
+      "supereSabong",
+      "cricketRoulette",
+      "crashCricket",
+      "goRush"
     ],
     "LIST_SLOT": [
       "Frozen",
@@ -346,6 +347,7 @@
       "keno"
     ],
     "LIST_HOT_GAME": [
+      "sabaSports",
       "aviator",
       "jackpotFishing",
       "Frozen",
