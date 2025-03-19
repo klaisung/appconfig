@@ -26,10 +26,7 @@
   },
   "ConfigListGame": {
     "LIST_ALL": [
-      "supereSabong",
-      "cricketRoulette",
-      "crashCricket",
-      "goRush",
+      "sabaSports",
       "TaiXiuCanCua",
       "TaiXiuMD5",
       "jackpotFishing",
@@ -55,7 +52,6 @@
       "GaiNhay",
       "oceanKing",
       "aviator",
-      "sabaSports",
       "fbSports",
       "Poker",
       "SamSL",
@@ -119,7 +115,11 @@
       "miniRoulette",
       "goal",
       "keno",
-      "crashGoal"
+      "crashGoal",
+      "supereSabong",
+      "cricketRoulette",
+      "crashCricket",
+      "goRush"
     ],
     "LIST_SLOT": [
       "Frozen",
