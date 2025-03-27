@@ -454,6 +454,7 @@
     "LIST_SPORT": [
       "sabaSports",
       "fbSports"
-    ]
+    ],
+    "isIOSUpdate": true
   }
 }
