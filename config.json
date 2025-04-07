@@ -26,6 +26,8 @@
   },
   "ConfigListGame": {
     "LIST_ALL": [
+      "megaHeist",
+      "moneyTrain3",
       "aviamasters",
       "sabaSports",
       "TaiXiuCanCua",
@@ -121,8 +123,6 @@
       "cricketRoulette",
       "crashCricket",
       "goRush",
-      "megaHeist",
-      "moneyTrain3",
       "moneyCart3",
       "purrrminator",
       "glyphofgods",
