@@ -639,6 +639,6 @@
       "scratchDice",
       "minesweeper"
     ],
-    "isIOSUpdate": false
+    "isIOSUpdate": true
   }
 }
