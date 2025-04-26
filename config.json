@@ -26,11 +26,11 @@
   },
   "ConfigListGame": {
     "LIST_ALL": [
-      "FlappyBird",
       "snoopDoggDollars",
       "fishingClub",
       "megaHeist",
       "moneyTrain3",
+      "FlappyBird",
       "aviamasters",
       "TaiXiuCanCua",
       "TaiXiuMD5",
@@ -490,6 +490,7 @@
       "minesweeper"
     ],
     "LIST_HOT_GAME": [
+      "FlappyBird",
       "megaHeist",
       "aviamasters",
       "sabaSports",
