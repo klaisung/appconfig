@@ -26,6 +26,7 @@
   },
   "ConfigListGame": {
     "LIST_ALL": [
+      "FlappyBird",
       "snoopDoggDollars",
       "fishingClub",
       "megaHeist",
@@ -161,6 +162,7 @@
       "hauntedReels"
     ],
     "LIST_SLOT": [
+      "FlappyBird",
       "Frozen",
       "Anubis",
       "Finn",
@@ -307,6 +309,7 @@
       "MauBinh"
     ],
     "SCENE_GAMES": [
+      "FlappyBird",
       "TaiXiuLive",
       "Frozen",
       "Harry",
