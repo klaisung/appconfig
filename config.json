@@ -26,16 +26,14 @@
   },
   "ConfigListGame": {
     "LIST_ALL": [
-      "snoopDoggDollars",
-      "fishingClub",
-      "megaHeist",
-      "moneyTrain3",
-      "FlappyBird",
-      "aviamasters",
+      "penaltyShootOutStreet",
+      "adrenalineRushXCrash",
+      "thimbles",
+      "adrenalineRush",
+      "sabaSports",
       "TaiXiuCanCua",
       "TaiXiuMD5",
       "jackpotFishing",
-      "sabaSports",
       "LoDeSieuToc",
       "dinosaurTycoonII",
       "boomLegend",
@@ -126,6 +124,8 @@
       "cricketRoulette",
       "crashCricket",
       "goRush",
+      "megaHeist",
+      "moneyTrain3",
       "moneyCart3",
       "purrrminator",
       "glyphofgods",
@@ -159,7 +159,17 @@
       "goldenPride",
       "discoParty",
       "catchTheGold",
-      "hauntedReels"
+      "hauntedReels",
+      "FlappyBird",
+      "snoopDoggDollars",
+      "fishingClub",
+      "aviamasters",
+      "bBallBlitz",
+      "penaltyShootOutSuperCup",
+      "hotSlice",
+      "octoberPub",
+      "dungeonImmortalEvil",
+      "videoPoker"
     ],
     "LIST_SLOT": [
       "FlappyBird",
@@ -244,7 +254,17 @@
       "goldenPride",
       "discoParty",
       "catchTheGold",
-      "hauntedReels"
+      "hauntedReels",
+      "penaltyShootOutStreet",
+      "adrenalineRushXCrash",
+      "thimbles",
+      "adrenalineRush",
+      "bBallBlitz",
+      "penaltyShootOutSuperCup",
+      "hotSlice",
+      "octoberPub",
+      "dungeonImmortalEvil",
+      "videoPoker"
     ],
     "LIST_CRYPTO": [
       "aviamasters",
@@ -265,7 +285,17 @@
       "diceClash",
       "tileMaster",
       "scratchDice",
-      "minesweeper"
+      "minesweeper",
+      "penaltyShootOutStreet",
+      "adrenalineRushXCrash",
+      "thimbles",
+      "adrenalineRush",
+      "bBallBlitz",
+      "penaltyShootOutSuperCup",
+      "hotSlice",
+      "octoberPub",
+      "dungeonImmortalEvil",
+      "videoPoker"
     ],
     "LIST_CASINO": [
       "frenchRoulette",
@@ -278,7 +308,6 @@
       "Sicbo",
       "Xocdia",
       "Baucua"
-
     ],
     "LIST_GAMEBAI": [
       "Poker",
@@ -314,7 +343,6 @@
       "TaiXiuLive",
       "Frozen",
       "Harry",
-      "Finn",
       "Anubis",
       "Finn",
       "KeoNgot",
@@ -451,7 +479,17 @@
       "diceClash",
       "tileMaster",
       "scratchDice",
-      "minesweeper"
+      "minesweeper",
+      "penaltyShootOutStreet",
+      "penaltyShootOutSuperCup",
+      "thimbles",
+      "adrenalineRush",
+      "bBallBlitz",
+      "adrenalineRushXCrash",
+      "hotSlice",
+      "octoberPub",
+      "dungeonImmortalEvil",
+      "videoPoker"
     ],
     "WEBVIEW_GAME_DOC": [
       "aviator",
@@ -469,29 +507,18 @@
       "fbSports"
     ],
     "LIST_NEW_GAME": [
-      "snoopDoggDollars",
-      "fishingClub",
-      "wildCardGang",
-      "forgotten",
-      "wildMoonThieves",
-      "catdiana",
-      "luckyDucky",
-      "rotatingElement",
-      "carnivalBonanza",
-      "aliceWonderLuck",
-      "goldenPride",
-      "discoParty",
-      "catchTheGold",
-      "hauntedReels",
-      "frenchRoulette",
-      "multihandBlackjack",
-      "diceClash",
-      "tileMaster",
-      "scratchDice",
-      "minesweeper"
+      "penaltyShootOutStreet",
+      "penaltyShootOutSuperCup",
+      "thimbles",
+      "adrenalineRush",
+      "bBallBlitz",
+      "adrenalineRushXCrash",
+      "hotSlice",
+      "octoberPub",
+      "dungeonImmortalEvil",
+      "videoPoker"
     ],
     "LIST_HOT_GAME": [
-      "FlappyBird",
       "megaHeist",
       "aviamasters",
       "sabaSports",
@@ -505,7 +532,10 @@
       "boxingKing",
       "superAce",
       "LacTienTy",
-      "moneyTrain3"
+      "penaltyShootOutStreet",
+      "penaltyShootOutSuperCup",
+      "thimbles",
+      "adrenalineRush"
     ],
     "JILI_GAMES": [
       "jackpotFishing",
@@ -595,7 +625,8 @@
       "NOLIMIT",
       "NETENT",
       "FCFACHAI",
-      "BGAMING"
+      "BGAMING",
+      "EVOPLAY"
     ],
     "LIST_SPORT": [
       "sabaSports",
@@ -643,6 +674,18 @@
       "tileMaster",
       "scratchDice",
       "minesweeper"
+    ],
+    "EVOPLAY_GAMES": [
+      "penaltyShootOutStreet",
+      "adrenalineRushXCrash",
+      "thimbles",
+      "adrenalineRush",
+      "bBallBlitz",
+      "penaltyShootOutSuperCup",
+      "hotSlice",
+      "octoberPub",
+      "dungeonImmortalEvil",
+      "videoPoker"
     ],
     "isIOSUpdate": true
   }
