@@ -26,8 +26,8 @@
   },
   "ConfigListGame": {
     "LIST_ALL": [
-      "penaltyShootOutStreet",
       "adrenalineRushXCrash",
+      "penaltyShootOutStreet",
       "thimbles",
       "adrenalineRush",
       "sabaSports",
