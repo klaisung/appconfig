@@ -686,6 +686,7 @@
       "dungeonImmortalEvil",
       "videoPoker"
     ],
-    "isIOSUpdate": true
+    "isIOSUpdate": true,
+    "OPEN_WEBVIEW_GAMES_IOS" :["adrenalineRush"]
   }
 }
