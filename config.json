@@ -36,6 +36,7 @@
       "TaiXiuMD5",
       "jackpotFishing",
       "sabaSports",
+      "XocDiaLive",
       "LoDeSieuToc",
       "dinosaurTycoonII",
       "boomLegend",
@@ -292,6 +293,7 @@
       "multihandBlackjack",
       "supereSabong",
       "cricketRoulette",
+      "XocDiaLive",
       "TaiXiuCanCua",
       "TaiXiuMD5",
       "TaiXiuLive",
@@ -310,6 +312,7 @@
       "LoDe"
     ],
     "LIST_SCENE": [
+      "XocDiaLive",
       "Frozen",
       "Anubis",
       "Finn",
@@ -329,6 +332,7 @@
       "MauBinh"
     ],
     "SCENE_GAMES": [
+      "XocDiaLive",
       "FlappyBird",
       "TaiXiuLive",
       "Frozen",
@@ -506,6 +510,7 @@
       "videoPoker"
     ],
     "LIST_NEW_GAME": [
+      "XocDiaLive",
       "penaltyShootOutStreet",
       "penaltyShootOutSuperCup",
       "thimbles",
