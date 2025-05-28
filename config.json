@@ -26,11 +26,10 @@
   },
   "ConfigListGame": {
     "LIST_ALL": [
-      "adrenalineRushXCrash",
       "penaltyShootOutStreet",
       "thimbles",
-      "adrenalineRush",
       "FlappyBird",
+      "aviamasters",
       "XocDiaLive",
       "TaiXiuCanCua",
       "TaiXiuMD5",
@@ -68,7 +67,6 @@
       "Sicbo",
       "Xocdia",
       "Baucua",
-      "aviamasters",
       "santasXmasRush",
       "outsourcedSlashGame",
       "cashNoire",
@@ -170,7 +168,9 @@
       "hotSlice",
       "octoberPub",
       "dungeonImmortalEvil",
-      "videoPoker"
+      "videoPoker",
+      "adrenalineRushXCrash",
+      "adrenalineRush"
     ],
     "LIST_SLOT": [
       "FlappyBird",
