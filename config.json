@@ -30,7 +30,7 @@
       "thimbles",
       "FlappyBird",
       "aviamasters",
-      "XocDiaLive",
+      "TaiXiuSHA256",
       "TaiXiuCanCua",
       "TaiXiuMD5",
       "jackpotFishing",
@@ -63,6 +63,7 @@
       "TLMN4",
       "MauBinh",
       "TaiXiuLive",
+      "XocDiaLive",
       "LoDe",
       "Sicbo",
       "Xocdia",
@@ -295,6 +296,7 @@
       "cricketRoulette",
       "TaiXiuCanCua",
       "TaiXiuMD5",
+      "TaiXiuSHA256",
       "XocDiaLive",
       "TaiXiuLive",
       "Sicbo",
@@ -355,6 +357,7 @@
       "LoDeSieuToc"
     ],
     "PREFAB_GAMES": [
+      "TaiXiuSHA256",
       "TaiXiuCanCua",
       "TaiXiuMD5",
       "FortuneMouse",
