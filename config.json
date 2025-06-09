@@ -64,6 +64,11 @@
       "MauBinh",
       "TaiXiuLive",
       "XocDiaLive",
+      "evolution",
+      "sexyGaming",
+      "wmCasino",
+      "dreamGaming",
+      "saGaming",
       "LoDe",
       "Sicbo",
       "Xocdia",
@@ -290,6 +295,11 @@
       "videoPoker"
     ],
     "LIST_CASINO": [
+      "evolution",
+      "sexyGaming",
+      "wmCasino",
+      "dreamGaming",
+      "saGaming",
       "frenchRoulette",
       "multihandBlackjack",
       "supereSabong",
@@ -332,6 +342,15 @@
       "SamSL",
       "TLMN4",
       "MauBinh"
+    ],
+    "LIST_LIVE": [
+      "XocDiaLive",
+      "TaiXiuLive",
+      "evolution",
+      "sexyGaming",
+      "wmCasino",
+      "dreamGaming",
+      "saGaming"
     ],
     "SCENE_GAMES": [
       "XocDiaLive",
@@ -514,7 +533,6 @@
     ],
     "LIST_NEW_GAME": [
       "TaiXiuSHA256",
-      "XocDiaLive",
       "penaltyShootOutStreet",
       "penaltyShootOutSuperCup",
       "thimbles",
@@ -695,6 +713,8 @@
       "videoPoker"
     ],
     "isIOSUpdate": true,
-    "OPEN_WEBVIEW_GAMES_IOS" :["adrenalineRush"]
+    "OPEN_WEBVIEW_GAMES_IOS": [
+      "adrenalineRush"
+    ]
   }
 }
