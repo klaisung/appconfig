@@ -266,6 +266,16 @@
     "LIST_CRYPTO": [
       "aviamasters",
       "aviator",
+      "penaltyShootOutStreet",
+      "adrenalineRushXCrash",
+      "thimbles",
+      "adrenalineRush",
+      "bBallBlitz",
+      "penaltyShootOutSuperCup",
+      "hotSlice",
+      "octoberPub",
+      "dungeonImmortalEvil",
+      "videoPoker",
       "goRush",
       "crashCricket",
       "crashGoal",
@@ -282,17 +292,7 @@
       "diceClash",
       "tileMaster",
       "scratchDice",
-      "minesweeper",
-      "penaltyShootOutStreet",
-      "adrenalineRushXCrash",
-      "thimbles",
-      "adrenalineRush",
-      "bBallBlitz",
-      "penaltyShootOutSuperCup",
-      "hotSlice",
-      "octoberPub",
-      "dungeonImmortalEvil",
-      "videoPoker"
+      "minesweeper"
     ],
     "LIST_CASINO": [
       "frenchRoulette",
@@ -535,16 +535,7 @@
       "videoPoker"
     ],
     "LIST_NEW_GAME": [
-      "TaiXiuSHA256",
-      "penaltyShootOutStreet",
-      "penaltyShootOutSuperCup",
-      "thimbles",
-      "adrenalineRush",
-      "bBallBlitz",
-      "hotSlice",
-      "octoberPub",
-      "dungeonImmortalEvil",
-      "videoPoker"
+      "TaiXiuSHA256"
     ],
     "LIST_HOT_GAME": [
       "megaHeist",
