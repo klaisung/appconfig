@@ -935,11 +935,6 @@
       "5LionsMegaways"
     ],
     "JILI_GAMES": [
-      "dragonTreasure",
-      "crazyHunter",
-      "secretTreasure",
-      "crazyPusher",
-      "winDrop",
       "jackpotFishing",
       "oceanKing",
       "fortuneKingJackpot",
@@ -958,6 +953,11 @@
       "superAce",
       "supereSabong",
       "cricketRoulette",
+      "dragonTreasure",
+      "crazyHunter",
+      "secretTreasure",
+      "crazyPusher",
+      "winDrop",
       "crashCricket",
       "goRush",
       "crashGoal"
