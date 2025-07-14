@@ -25,6 +25,7 @@
     }
   },
   "ConfigListGame": {
+    "PARTNER_GAMES":["ALL","PGSLOT","JILI","BGAMING", "EVOPLAY","SPRIBE", "PRAGMATIC", "FCFACHAI", "NETENT","NOLIMIT"],
     "CONFIG_LIST_GAME" : [
         {"name":"wildBountyShowdown","host":"PGSLOT","sub_host":"SLOT","index_all":1,"index_host":1,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":true,"is_new":false}	,
         {"name":"boxingKing","host":"JILI","sub_host":"SLOT","index_all":2,"index_host":21,"is_rotation":false,"scene":"WEBVIEW_GAMES","is_hot":true,"is_new":false}	,
