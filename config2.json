@@ -26,15 +26,15 @@
   },
   "ConfigListGame": {
     "LIST_FILTER_MAIN": [
-        {"filter_name":"ALL","index":1,"isHot":false,"isNew":false,"isHiden":false}	,
-        {"filter_name":"SLOT","index":2,"isHot":true,"isNew":false,"isHiden":false}	,
-        {"filter_name":"CASINO","index":3,"isHot":true,"isNew":false,"isHiden":false}	,
-        {"filter_name":"GAMEBAI","index":4,"isHot":false,"isNew":false,"isHiden":false}	,
-        {"filter_name":"FISHING","index":5,"isHot":false,"isNew":false,"isHiden":false}	,
-        {"filter_name":"LOTO","index":6,"isHot":false,"isNew":false,"isHiden":false}	,
-        {"filter_name":"SPORT","index":7,"isHot":false,"isNew":false,"isHiden":false}	,
-        {"filter_name":"CRYPTO","index":8,"isHot":false,"isNew":false,"isHiden":false}	,
-        {"filter_name":"LIVE","index":9,"isHot":false,"isNew":true,"isHiden":false}
+        {"filter_name":"ALL","index":1,"isHot":false,"isNew":false,"isHiden":false},
+        {"filter_name":"CASINO","index":2,"isHot":true,"isNew":false,"isHiden":false},
+        {"filter_name":"SLOT","index":3,"isHot":true,"isNew":false,"isHiden":false},
+        {"filter_name":"FISHING","index":4,"isHot":false,"isNew":false,"isHiden":false},
+        {"filter_name":"LIVE","index":5,"isHot":false,"isNew":false,"isHiden":false},
+        {"filter_name":"CRYPTO","index":6,"isHot":false,"isNew":false,"isHiden":false},
+        {"filter_name":"LOTO","index":7,"isHot":false,"isNew":false,"isHiden":false},
+        {"filter_name":"SPORT","index":8,"isHot":false,"isNew":false,"isHiden":false},
+        {"filter_name":"GAMEBAI","index":9,"isHot":false,"isNew":false,"isHiden":false}
     ],
     "LIST_FILTER_HOST": [
       {"filter_name":"ALL","index":1,"isHot":false,"isNew":false,"isHiden":false}	,
