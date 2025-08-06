@@ -36,7 +36,7 @@
         {"filter_name":"LOTO","index":8,"isHot":false,"isNew":false,"isHiden":false}	,
         {"filter_name":"SPORT","index":9,"isHot":false,"isNew":false,"isHiden":false}	,
         {"filter_name":"CRYPTO","index":10,"isHot":false,"isNew":false,"isHiden":false}	,
-        {"filter_name":"LIVE","index":11,"isHot":false,"isNew":false,"isHiden":false}	,
+        {"filter_name":"LIVE","index":11,"isHot":false,"isNew":false,"isHiden":false}	
     ],
     "LIST_FILTER_HOST": [
         {"filter_name":"ALL","index":2,"isHot":false,"isNew":false,"isHiden":false}	,
