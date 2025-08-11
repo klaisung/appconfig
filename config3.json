@@ -22,7 +22,13 @@
       "subdomain": "gsc",
       "port": 443,
       "ConnectionToken": ""
-    }
+    },
+    "NOTICE_LIST": [
+      "Truy cập <color=#23E200><on click=\"onClickLink\" param=\"https://79.club\">https://79.club</on></c> để lấy domain mới nhất",
+      "<color=#23E200>79CLUB</c> chỉ có sản phẩm duy nhất nạp rút <color=#FAFF00><on click=\"onClickDaiLy\">ĐẠI LÝ</on></c>, không có sản phẩm 1-1",
+      "<color=#23E200><on click=\"onClickCSKH\">LIVECHAT</on></c> là kênh CSKH duy nhất, ngoài ra đều là giả mạo",
+      "test đây test đây test đến đâyyy"
+    ]
   },
   "ConfigListGame": {
     "LIST_FILTER_MAIN": [
@@ -303,3 +309,4 @@
     ]
   }
 }
+
