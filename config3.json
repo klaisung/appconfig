@@ -59,7 +59,7 @@
         {"filter_name":"NOLIMIT","index":13,"isHot":false,"isNew":false,"isHiden":false}
     ],
 
-    "PARTNER_GAMES":["ALL", "PGSLOT", "JILI", "BGAMING", "EVOPLAY", "SPRIBE", "PRAGMATIC", "RELAX", "FCFACHAI", "NETENT", "NOLIMIT"],
+    "PARTNER_GAMES":["ALL","BAYCHIN","PGSLOT","JILI","BGAMING", "EVOPLAY","SPRIBE", "PRAGMATIC", "RELAX", "FCFACHAI", "NETENT","NOLIMIT"],
     "CONFIG_LIST_GAME" : [
 {"name":"Maya","host":"BAYCHIN","sub_host":"SLOT","index_all":1,"index_host":2,"is_rotation":false,"scene":"SCENE_GAMES","is_hot":false,"is_new":true}	,
 {"name":"Audition","host":"BAYCHIN","sub_host":"SLOT","index_all":2,"index_host":1,"is_rotation":false,"scene":"SCENE_GAMES","is_hot":false,"is_new":true}	,
