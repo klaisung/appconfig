@@ -69,7 +69,7 @@
 {"name":"mahjongWays2","host":"PGSLOT","sub_host":"SLOT","index_all":5,"index_host":3,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":true,"is_new":false}	,
 {"name":"LacTienTy","host":"BAYCHIN","sub_host":"SLOT","index_all":6,"index_host":10,"is_rotation":false,"scene":"PREFAB_GAMES","is_hot":true,"is_new":false}	,
 {"name":"TaiXiuSHA256","host":"BAYCHIN","sub_host":"CASINO","index_all":7,"index_host":3,"is_rotation":false,"scene":"PREFAB_GAMES","is_hot":true,"is_new":false}	,
-{"name":"aviamasters","host":"BGAMING","sub_host":"CRYPTO","index_all":8,"index_host":1,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":true,"is_new":false}	,
+{"name":"aviamasters","host":"BGAMING","sub_host":"CRYPTO","index_all":8,"index_host":1,"is_rotation":false,"scene":"WEBVIEW_GAMES","is_hot":true,"is_new":false}	,
 {"name":"FlappyBird","host":"BAYCHIN","sub_host":"SLOT","index_all":9,"index_host":4,"is_rotation":false,"scene":"SCENE_GAMES","is_hot":true,"is_new":false}	,
 {"name":"TaiXiuCanCua","host":"BAYCHIN","sub_host":"CASINO","index_all":10,"index_host":5,"is_rotation":false,"scene":"PREFAB_GAMES","is_hot":false,"is_new":false}	,
 {"name":"TaiXiuMD5","host":"BAYCHIN","sub_host":"CASINO","index_all":11,"index_host":6,"is_rotation":false,"scene":"PREFAB_GAMES","is_hot":false,"is_new":false}	,
