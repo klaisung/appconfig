@@ -108,7 +108,6 @@
 {"name":"saGaming","host":"BAYCHIN","sub_host":"LIVE","index_all":999,"index_host":30,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
 {"name":"LoDe","host":"BAYCHIN","sub_host":"LOTO","index_all":999,"index_host":31,"is_rotation":false,"scene":"SCENE_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
 {"name":"sabaSports","host":"BAYCHIN","sub_host":"SPORT","index_all":999,"index_host":32,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
-{"name":"fbSports","host":"BAYCHIN","sub_host":"SPORT","index_all":999,"index_host":33,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
 {"name":"Poker","host":"BAYCHIN","sub_host":"GAMEBAI","index_all":999,"index_host":34,"is_rotation":false,"scene":"SCENE_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
 {"name":"SamSL","host":"BAYCHIN","sub_host":"GAMEBAI","index_all":999,"index_host":35,"is_rotation":false,"scene":"SCENE_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
 {"name":"TLMN4","host":"BAYCHIN","sub_host":"GAMEBAI","index_all":999,"index_host":36,"is_rotation":false,"scene":"SCENE_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
