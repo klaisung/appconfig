@@ -50,14 +50,15 @@
         {"filter_name":"BAYCHIN","index":2,"isHot":false,"isNew":false,"isHiden":false}	,
         {"filter_name":"PGSLOT","index":3,"isHot":false,"isNew":false,"isHiden":false}	,
         {"filter_name":"JILI","index":4,"isHot":false,"isNew":false,"isHiden":false}	,
-        {"filter_name":"PRAGMATIC","index":5,"isHot":false,"isNew":false,"isHiden":false}	,
-        {"filter_name":"BGAMING","index":6,"isHot":false,"isNew":false,"isHiden":false}	,
-        {"filter_name":"EVOPLAY","index":7,"isHot":false,"isNew":false,"isHiden":false}	,
-        {"filter_name":"SPRIBE","index":8,"isHot":false,"isNew":false,"isHiden":false}	,
-        {"filter_name":"RELAX","index":9,"isHot":false,"isNew":false,"isHiden":false}	,
-        {"filter_name":"FCFACHAI","index":10,"isHot":false,"isNew":false,"isHiden":false}	,
-        {"filter_name":"NETENT","index":11,"isHot":false,"isNew":false,"isHiden":false}	,
-        {"filter_name":"NOLIMIT","index":12,"isHot":false,"isNew":false,"isHiden":false}
+        {"filter_name":"CQ9","index":5,"isHot":false,"isNew":false,"isHiden":false}     ,
+        {"filter_name":"PRAGMATIC","index":6,"isHot":false,"isNew":false,"isHiden":false}	,
+        {"filter_name":"BGAMING","index":7,"isHot":false,"isNew":false,"isHiden":false}	,
+        {"filter_name":"EVOPLAY","index":8,"isHot":false,"isNew":false,"isHiden":false}	,
+        {"filter_name":"SPRIBE","index":9,"isHot":false,"isNew":false,"isHiden":false}	,
+        {"filter_name":"RELAX","index":10,"isHot":false,"isNew":false,"isHiden":false}	,
+        {"filter_name":"FCFACHAI","index":11,"isHot":false,"isNew":false,"isHiden":false}	,
+        {"filter_name":"NETENT","index":12,"isHot":false,"isNew":false,"isHiden":false}	,
+        {"filter_name":"NOLIMIT","index":13,"isHot":false,"isNew":false,"isHiden":false}
     ],
 
     "PARTNER_GAMES":["ALL","BAYCHIN","PGSLOT","JILI","BGAMING", "EVOPLAY","SPRIBE", "PRAGMATIC", "RELAX", "FCFACHAI", "NETENT","NOLIMIT"],
