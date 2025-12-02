@@ -165,7 +165,7 @@
 {"name":"goodFortune","host":"CQ9","sub_host":"SLOT","index_all":999,"index_host":19,"is_rotation":false,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":true}	,
 {"name":"baseballFever","host":"CQ9","sub_host":"SLOT","index_all":999,"index_host":20,"is_rotation":false,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":true}	,
 {"name":"treasureBowl","host":"CQ9","sub_host":"SLOT","index_all":999,"index_host":21,"is_rotation":false,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":true}	,
-{"name":"zeus2","host":"CQ9","sub_host":"SLOT","index_all":999,"index_host":22,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":true}	,
+{"name":"zeus2","host":"CQ9","sub_host":"SLOT","index_all":999,"index_host":22,"is_rotation":false,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":true}	,
 {"name":"fireQueen2","host":"CQ9","sub_host":"SLOT","index_all":999,"index_host":23,"is_rotation":false,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":true}	,
 {"name":"luckyBats","host":"CQ9","sub_host":"SLOT","index_all":999,"index_host":24,"is_rotation":false,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":true}	,
 {"name":"jumpHigherMobile","host":"CQ9","sub_host":"SLOT","index_all":999,"index_host":25,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":true}	,
@@ -354,7 +354,7 @@
 {"name":"mines","host":"SPRIBE","sub_host":"CRYPTO","index_all":999,"index_host":8,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
 {"name":"miniRoulette","host":"SPRIBE","sub_host":"CRYPTO","index_all":999,"index_host":9,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
 {"name":"goal","host":"SPRIBE","sub_host":"CRYPTO","index_all":999,"index_host":10,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
-{"name":"keno","host":"SPRIBE","sub_host":"CRYPTO","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false}
+{"name":"keno","host":"SPRIBE","sub_host":"CRYPTO","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false}	
     ]
   }
 }
