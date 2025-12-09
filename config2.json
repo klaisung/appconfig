@@ -11,7 +11,7 @@
     "LINK_TELE_NEWS": "https://t.me/gamebaidaiphat79club",
     "LINK_FB_FANPAGE": "https://www.facebook.com/79clubgamebaidaiphat/",
     "LINK_FB_GROUP": "https://www.facebook.com/groups/980317323293414",
-    "IS_EVENT_SIEU_VIP": "hidden",
+    "IS_EVENT_SIEU_VIP": "show",
     "HOST_GAME_DAU": {
       "host": "",
       "subdomain": "shs",
