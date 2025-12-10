@@ -61,7 +61,7 @@
         {"filter_name":"NOLIMIT","index":13,"isHot":false,"isNew":false,"isHiden":false}
     ],
 
-    "PARTNER_GAMES":["ALL","BAYCHIN","PGSLOT","JILI","BGAMING", "EVOPLAY","SPRIBE", "PRAGMATIC", "RELAX", "FCFACHAI", "NETENT","NOLIMIT","CQ9"],
+    "PARTNER_GAMES":["ALL","BAYCHIN","PGSLOT","JILI","BGAMING", "EVOPLAY","SPRIBE", "PRAGMATIC", "RELAX", "FCFACHAI", "NETENT","NOLIMIT","CQ9","CROCO"],
     "CONFIG_LIST_GAME" : [
 {"name":"mtLiveDealers","host":"BAYCHIN","sub_host":"LIVE","index_all":1,"index_host":1,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":true,"index_new":1,"is_new":false}	,
 {"name":"mtMarbles","host":"BAYCHIN","sub_host":"LIVE","index_all":2,"index_host":2,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":2,"is_new":false}	,
@@ -354,7 +354,36 @@
 {"name":"mines","host":"SPRIBE","sub_host":"CRYPTO","index_all":999,"index_host":8,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
 {"name":"miniRoulette","host":"SPRIBE","sub_host":"CRYPTO","index_all":999,"index_host":9,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
 {"name":"goal","host":"SPRIBE","sub_host":"CRYPTO","index_all":999,"index_host":10,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
-{"name":"keno","host":"SPRIBE","sub_host":"CRYPTO","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false}	
+{"name":"keno","host":"SPRIBE","sub_host":"CRYPTO","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
+{"name":"neZha","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"wukong","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"superWaldo","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"timLarry","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"rhinoRobbery","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"symbiote","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"cursedClown","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"cyberpunkXXII","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"ghostBoonanza","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"goldenYear","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"arcanePortals","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"starShinePrinces","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"jacksCrypt","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"clashCash","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"goldOfOlympus","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"reelBigCatch","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"seaOfOlympus1000","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"magicalMine","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"luckyRanch","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"left4Cash","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"pieceOfCash","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"cursedDoll","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"candyFiesta1000","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"samuraiClash","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"runAwayZombies","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"johnWild","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"dragonQuest","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"wizardsAcademy","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false},
+        {"name":"deadliestSea","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false}
     ]
   }
 }
