@@ -70,9 +70,9 @@
 
     "PARTNER_GAMES":["ALL","BAYCHIN","PGSLOT","JILI","BGAMING", "EVOPLAY","SPRIBE", "PRAGMATIC", "RELAX", "FCFACHAI", "NETENT","NOLIMIT","CQ9","CROCO"],
     "CONFIG_LIST_GAME" : [
-{"name":"neZha","host":"CROCO","sub_host":"SLOT","index_all":1,"index_host":1,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":true}	,
+{"name":"neZha","host":"CROCO","sub_host":"SLOT","index_all":1,"index_host":1,"is_rotation":false,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":true}	,
 {"name":"wildBountyShowdown","host":"PGSLOT","sub_host":"SLOT","index_all":2,"index_host":1,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":true,"index_new":999,"is_new":false}	,
-{"name":"wukong","host":"CROCO","sub_host":"SLOT","index_all":3,"index_host":2,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":true}	,
+{"name":"wukong","host":"CROCO","sub_host":"SLOT","index_all":3,"index_host":2,"is_rotation":false,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":true}	,
 {"name":"LacTienTy","host":"BAYCHIN","sub_host":"SLOT","index_all":4,"index_host":9,"is_rotation":false,"scene":"PREFAB_GAMES","is_hot":true,"index_new":999,"is_new":false}	,
 {"name":"TaiXiuSHA256","host":"BAYCHIN","sub_host":"CASINO","index_all":5,"index_host":1,"is_rotation":false,"scene":"PREFAB_GAMES","is_hot":true,"index_new":999,"is_new":false}	,
 {"name":"mtLiveDealers","host":"BAYCHIN","sub_host":"LIVE","index_all":6,"index_host":2,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":true,"index_new":1,"is_new":false}	,
