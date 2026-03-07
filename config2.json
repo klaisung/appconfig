@@ -74,7 +74,7 @@
     "PARTNER_GAMES":["ALL","BAYCHIN","PGSLOT","JILI","BGAMING", "EVOPLAY","SPRIBE", "PRAGMATIC", "RELAX", "FCFACHAI", "NETENT","NOLIMIT","CQ9","CROCO","JDB","ENDOR","RICH88"],
     "CONFIG_LIST_GAME" : [
 {"name":"choangBet","host":"BAYCHIN","sub_host":"SPORT","index_all":1,"index_host":1,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
-{"name":"cmdSports","host":"BAYCHIN","sub_host":"SPORT","index_all":2,"index_host":2,"is_rotation":true,"scene":"NEW_WEBVIEW","is_hot":false,"index_new":999,"is_new":false}	,
+{"name":"sabaSports","host":"BAYCHIN","sub_host":"SPORT","index_all":2,"index_host":2,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
 {"name":"neZha","host":"CROCO","sub_host":"SLOT","index_all":3,"index_host":1,"is_rotation":false,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
 {"name":"wildBountyShowdown","host":"PGSLOT","sub_host":"SLOT","index_all":4,"index_host":1,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":true,"index_new":999,"is_new":false}	,
 {"name":"wukong","host":"CROCO","sub_host":"SLOT","index_all":5,"index_host":2,"is_rotation":false,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
@@ -122,7 +122,7 @@
 {"name":"dreamGaming","host":"BAYCHIN","sub_host":"LIVE","index_all":999,"index_host":32,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
 {"name":"saGaming","host":"BAYCHIN","sub_host":"LIVE","index_all":999,"index_host":33,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
 {"name":"LoDe","host":"BAYCHIN","sub_host":"LOTO","index_all":999,"index_host":34,"is_rotation":false,"scene":"SCENE_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
-{"name":"sabaSports","host":"BAYCHIN","sub_host":"SPORT","index_all":999,"index_host":35,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
+{"name":"cmdSports","host":"BAYCHIN","sub_host":"SPORT","index_all":999,"index_host":35,"is_rotation":true,"scene":"NEW_WEBVIEW","is_hot":false,"index_new":999,"is_new":false}	,
 {"name":"sboSports","host":"BAYCHIN","sub_host":"SPORT","index_all":999,"index_host":36,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":4,"is_new":false}	,
 {"name":"tfGaming","host":"BAYCHIN","sub_host":"SPORT","index_all":999,"index_host":37,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":5,"is_new":false}	,
 {"name":"imEsports","host":"BAYCHIN","sub_host":"SPORT","index_all":999,"index_host":38,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
@@ -438,6 +438,7 @@
     ]
   }
 }
+
 
 
 
