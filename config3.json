@@ -74,7 +74,7 @@
 
     "PARTNER_GAMES":["ALL","BAYCHIN","PGSLOT","JILI","BGAMING", "EVOPLAY","SPRIBE", "PRAGMATIC", "RELAX", "FCFACHAI", "NETENT","NOLIMIT","CQ9","CROCO","JDB","ENDOR","RICH88"],
     "CONFIG_LIST_GAME" : [
-{"name":"choangBet","host":"BAYCHIN","sub_host":"SPORT","index_all":1,"index_host":1,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
+{"name":"choangBet","host":"BAYCHIN","sub_host":"SPORT","index_all":1,"index_host":1,"is_rotation":true,"scene":"NEW_WEBVIEW","is_hot":false,"index_new":999,"is_new":false}	,
 {"name":"sabaSports","host":"BAYCHIN","sub_host":"SPORT","index_all":2,"index_host":2,"is_rotation":true,"scene":"NEW_WEBVIEW","is_hot":false,"index_new":999,"is_new":false}	,
 {"name":"neZha","host":"CROCO","sub_host":"SLOT","index_all":3,"index_host":1,"is_rotation":false,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false}	,
 {"name":"wildBountyShowdown","host":"PGSLOT","sub_host":"SLOT","index_all":4,"index_host":1,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":true,"index_new":999,"is_new":false}	,
