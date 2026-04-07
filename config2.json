@@ -20,7 +20,7 @@
     },
     "HOST_GAME_JILI": {
       "host": "",
-      "subdomain": "katinat",
+      "subdomain": "jili",
       "port": 443,
       "ConnectionToken": ""
     },
