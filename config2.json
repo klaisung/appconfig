@@ -77,7 +77,7 @@
     "CONFIG_LIST_GAME" : [
 {"name":"choangBet","host":"BAYCHIN","sub_host":"SPORT","index_all":1,"index_host":1,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false,"isHidden":false}	,
 {"name":"sabaSports","host":"BAYCHIN","sub_host":"SPORT","index_all":2,"index_host":2,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false,"isHidden":false}	,
-{"name":"apGaming","host":"BAYCHIN","sub_host":"SPORT","index_all":3,"index_host":3,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":true,"isHidden":true}	,
+{"name":"apGaming","host":"BAYCHIN","sub_host":"SPORT","index_all":3,"index_host":3,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":true,"isHidden":false}	,
 {"name":"neZha","host":"CROCO","sub_host":"SLOT","index_all":4,"index_host":1,"is_rotation":false,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false,"isHidden":false}	,
 {"name":"wildBountyShowdown","host":"PGSLOT","sub_host":"SLOT","index_all":5,"index_host":1,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":true,"index_new":999,"is_new":false,"isHidden":false}	,
 {"name":"wukong","host":"CROCO","sub_host":"SLOT","index_all":6,"index_host":2,"is_rotation":false,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false,"isHidden":false}	,
