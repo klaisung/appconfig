@@ -468,7 +468,7 @@
 {"name":"mines","host":"SPRIBE","sub_host":"CRYPTO","index_all":999,"index_host":8,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false,"isHidden":false}	,
 {"name":"miniRoulette","host":"SPRIBE","sub_host":"CRYPTO","index_all":999,"index_host":9,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false,"isHidden":false}	,
 {"name":"goal","host":"SPRIBE","sub_host":"CRYPTO","index_all":999,"index_host":10,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false,"isHidden":false}	,
-{"name":"keno","host":"SPRIBE","sub_host":"CRYPTO","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false,"isHidden":false}	,
+{"name":"keno","host":"SPRIBE","sub_host":"CRYPTO","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false,"isHidden":false}
     ]
   }
 }
