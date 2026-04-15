@@ -69,7 +69,7 @@
       {"filter_name":"FCFACHAI","index":15,"isHot":false,"isNew":false,"isHiden":false}	,
       {"filter_name":"ENDOR","index":16,"isHot":false,"isNew":false,"isHiden":true}	,
       {"filter_name":"RICH88","index":17,"isHot":false,"isNew":false,"isHiden":true}	,
-      {"filter_name":"NETENT","index":18,"isHot":false,"isNew":false,"isHiden":false}	,
+      {"filter_name":"NETENT","index":18,"isHot":false,"isNew":false,"isHiden":true}	,
       {"filter_name":"NOLIMIT","index":19,"isHot":false,"isNew":false,"isHiden":false}
     ],
 
