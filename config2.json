@@ -30,6 +30,12 @@
       "port": 443,
       "ConnectionToken": ""
     },
+    "HOST_EVENT_MONTH" : {
+      "host": "",
+      "subdomain": "eventmonth-dev",
+      "port": 443,
+      "ConnectionToken": ""
+    },
     "NOTICE_LIST": [
       "Truy cập <color=#23E200><on click=\"onClickLink\" param=\"https://79.club\">https://79.club</on></c> để lấy domain mới nhất",
       "Ra mắt <color=#FAFF00>Choáng Bet</c> - Game cược <color=#23E200>BIDA</c> độc quyền, chỉ có tại 79CLUB",
