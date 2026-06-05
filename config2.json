@@ -202,9 +202,9 @@
 {"name":"bearSmash15000X","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":4,"is_rotation":false,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":true,"isHidden":false}	,
 {"name":"5TortureBlock","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":5,"is_rotation":false,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":true,"isHidden":false}	,
 {"name":"seaOfOlympus1000","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":6,"is_rotation":false,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":true,"isHidden":false}	,
-{"name":"chopChop","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":7,"is_rotation":false,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":true,"isHidden":false}	,
-{"name":"ganeshaGoldenWheel","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":8,"is_rotation":false,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":true,"isHidden":false}	,
-{"name":"pinballStriker","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":9,"is_rotation":false,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":true,"isHidden":false}	,
+{"name":"chopChop","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":7,"is_rotation":false,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":true,"isHidden":true}	,
+{"name":"ganeshaGoldenWheel","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":8,"is_rotation":false,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":true,"isHidden":true}	,
+{"name":"pinballStriker","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":9,"is_rotation":false,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":true,"isHidden":true}	,
 {"name":"superWaldo","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":10,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false,"isHidden":false}	,
 {"name":"timLarry","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":11,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false,"isHidden":false}	,
 {"name":"rhinoRobbery","host":"CROCO","sub_host":"SLOT","index_all":999,"index_host":12,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false,"isHidden":false}	,
@@ -485,7 +485,6 @@
 {"name":"goldenTrain2","host":"VPLUS","sub_host":"SLOT","index_all":999,"index_host":15,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false,"isHidden":false}	,
 {"name":"goldenTrainDeluxe","host":"VPLUS","sub_host":"SLOT","index_all":999,"index_host":15,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false,"isHidden":false}	,
 {"name":"pompeilBlaze","host":"VPLUS","sub_host":"SLOT","index_all":999,"index_host":15,"is_rotation":true,"scene":"WEBVIEW_GAMES","is_hot":false,"index_new":999,"is_new":false,"isHidden":false}
-    ]
   }
 }
 
