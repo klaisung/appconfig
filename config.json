@@ -22,6 +22,12 @@
       "subdomain": "gsc",
       "port": 443,
       "ConnectionToken": ""
+    },
+    "HOST_EVENT_MONTH_DEV" : {
+      "host": "",
+      "subdomain": "eventmonth-dev",
+      "port": 443,
+      "ConnectionToken": ""
     }
   },
   "ConfigListGame": {
