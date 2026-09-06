@@ -26,13 +26,13 @@
     },
     "HOST_EVENT_MONTH_DEV" : {
       "host": "",
-      "subdomain": "eventmonth",
+      "subdomain": "eventmonth-dev",
       "port": 443,
       "ConnectionToken": ""
     },
     "HOST_EVENT_MONTH" : {
       "host": "",
-      "subdomain": "eventmonth",
+      "subdomain": "eventmonth-dev",
       "port": 443,
       "ConnectionToken": ""
     },
